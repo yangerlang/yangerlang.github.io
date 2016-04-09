@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 杨二郎生活的点点滴滴
+title: 杨二郎
 tags: yangerlang.info
-description: 杨二郎的博客,记录生活的点点滴滴,当我年老的时候，可以用来回首往昔！
 ---
 
 ## 域名的由来

@@ -1,8 +1,8 @@
 # Site settings
-title: 杨二郎的个人博客
+title: 杨二郎生活的点点滴滴
 email: yangerlanginfo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  杨二郎的博客
+  杨二郎的博客,记录生活的点点滴滴,当我年老的时候，可以用来回首往昔！
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yangerlang.info" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
